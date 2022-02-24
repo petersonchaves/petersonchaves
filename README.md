@@ -1,16 +1,37 @@
-### Hi there 👋
+## Olá, eu sou o PETERSON 👋
 
-<!--
-**pchaves83/pchaves83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje estou trabalhando com front/back-end
+- 🌱 Estou estudando sobre AWS
+- 👯 Procuro colaborar com projetos interessantes
+- 🤔 Procuro ajuda para montar uma plataforma de conhecimento
+- 💬 Se quiser perguntar algo, fique a vontade
+- 📫 Contato: peterson.chaves@gmail.com
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: Estudando desenvolvimento Mobile, voltado para IOS, mas ainda não implantei nada. 
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/pchaves83">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pchaves83&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pchaves83&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="PChaves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PChaves-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="PChaves-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PChaves-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="PChaves-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+  
+  <div> 
+  <a href="https://instagram.com/pchaves83" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:peterson.chaves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/peterson-chaves-9337007" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/peterson-chaves-9337007" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+    
+  ![Snake animation](https://github.com/pchaves83/pchaves83/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
